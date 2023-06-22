@@ -54,6 +54,15 @@ This project is a C++ program for solving systems of algebraic linear equations.
 
 ## Work Examples:
 
+### Console output:
+<img src="Examples/SLEoutput.png">
+
+### Exported solution:
+<img src="Examples/ExportedSolution.png">
+
+### Exported matrix:
+<img src="Examples/ExportedMatrix.png">
+
 <!-- CONTRIBUTING -->
 ## Contributing
 

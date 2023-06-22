@@ -1,0 +1,15 @@
+﻿  GaussPractice.cpp
+C:\Users\OMON\Desktop\GaussPractice\GaussPractice\FileOperations.h(14,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\OMON\Desktop\GaussPractice\GaussPractice\FileOperations.h(16,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\OMON\Desktop\GaussPractice\GaussPractice\GaussOperations.h(26,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\OMON\Desktop\GaussPractice\GaussPractice\GaussOperations.h(88,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\OMON\Desktop\GaussPractice\GaussPractice\GaussOperations.h(90,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\OMON\Desktop\GaussPractice\GaussPractice\GaussPractice.cpp(59,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\OMON\Desktop\GaussPractice\GaussPractice\GaussPractice.cpp(71,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\OMON\Desktop\GaussPractice\GaussPractice\GaussPractice.cpp(97,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\OMON\Desktop\GaussPractice\GaussPractice\GaussPractice.cpp(99,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\OMON\Desktop\GaussPractice\GaussPractice\GaussPractice.cpp(44,10): warning C4101: Q: неиспользованная локальная переменная
+C:\Users\OMON\Desktop\GaussPractice\GaussPractice\GaussPractice.cpp(45,26): warning C4101: functionTimeCalculate: неиспользованная локальная переменная
+C:\Users\OMON\Desktop\GaussPractice\GaussPractice\GaussPractice.cpp(45,9): warning C4101: time: неиспользованная локальная переменная
+C:\Users\OMON\Desktop\GaussPractice\GaussPractice\FileOperations.h(34): warning C4715: saveSolution: значение возвращается не при всех путях выполнения
+  GaussPractice.vcxproj -> C:\Users\OMON\Desktop\GaussPractice\x64\Debug\GaussPractice.exe
